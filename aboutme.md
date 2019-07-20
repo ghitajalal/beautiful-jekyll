@@ -1,7 +1,7 @@
 ---
 layout: page
-title:
-subtitle: 
+title: About Me 
+subtitle: UX Researcher, Digital Enthousiast, World Explorer 
 ---
 
 
