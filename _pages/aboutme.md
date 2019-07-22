@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello 
+title: Hello!
 subtitle: UX Researcher, Digital Enthousiast, World Explorer 
 ---
 
