@@ -23,7 +23,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  About: "_pages/aboutme"
+   About: "_pages/aboutme"
   Teaching: "pages/teaching"
  # Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
