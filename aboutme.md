@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello!
+title: HI There, I am Ghita
 subtitle: UX Researcher, Digital Enthousiast, World Explorer 
 ---
 
