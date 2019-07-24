@@ -1,8 +1,7 @@
 ---
-layout:
-subtitle:  page
-title: Hi There, I am Ghita
-a UX Researcher, Digital Enthousiast, World Explorer 
+layout: page
+title Hi there !
+subtitle: I am Ghita, a UX Researcher, Digital Enthousiast, World Explorer 
 ---
 
 
